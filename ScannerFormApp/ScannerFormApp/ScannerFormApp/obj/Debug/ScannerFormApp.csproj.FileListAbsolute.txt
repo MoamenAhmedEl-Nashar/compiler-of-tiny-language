@@ -1,0 +1,20 @@
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.csprojResolveAssemblyReference.cache
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.Form1.resources
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.Properties.Resources.resources
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.csproj.GenerateResource.cache
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.csproj.CoreCompileInputs.cache
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\bin\Debug\ScannerFormApp.exe.config
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\bin\Debug\ScannerFormApp.exe
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\bin\Debug\ScannerFormApp.pdb
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.exe
+C:\Users\OmarAli\source\repos\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.pdb
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\bin\Debug\ScannerFormApp.exe.config
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\bin\Debug\ScannerFormApp.exe
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\bin\Debug\ScannerFormApp.pdb
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.csprojAssemblyReference.cache
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.Form1.resources
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.Properties.Resources.resources
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.csproj.GenerateResource.cache
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.csproj.CoreCompileInputs.cache
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.exe
+D:\Engineering\4th_comp\1st term\compilers\github_project\ScannerFormApp\ScannerFormApp\ScannerFormApp\obj\Debug\ScannerFormApp.pdb
