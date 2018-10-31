@@ -22,7 +22,7 @@ namespace ScannerFormApp
         private void Start_Click(object sender, EventArgs e)
         {
             string code = input.Text.ToString()+" ";//space added at last of code to simulate [other]
-            scanner2(code);
+            scanner(code);
         }
 
         private bool isSymbol(char str)
@@ -45,48 +45,8 @@ namespace ScannerFormApp
             else return false;
         }
 
+        
         private void scanner(string code)
-        {
-
-            int state = 0;
-            string current_string="";
-            var builder = new StringBuilder();
-            for(int i=0; i<code.Length; i++)
-            {
-                if(char.IsLetter(code[i]) && state==0)
-                {
-                    builder.Append(code[i]);
-                    current_string = builder.ToString();
-                    state = 1;
-                    continue;
-                }
-                if (char.IsDigit(code[i]) && state == 0)
-                {
-                    state = 2;
-                    continue;
-                }
-                if (char.IsLetterOrDigit(code[i]) && state==1)
-                {
-                    builder.Append(code[i]);
-                    current_string = builder.ToString();
-                    continue;
-                }
-                if (!char.IsLetterOrDigit(code[i]))//symbol or space
-                {
-
-                    if(current_string!="")
-                    {
-                        values.Add(current_string);
-                        types.Add("identifier");
-                        current_string = "";
-                        state = 0;
-                    }
-                    
-                    
-                }
-            }
-        }
-        private void scanner2(string code)
         {
             int state = 0;
             string current_string = "";
@@ -200,7 +160,7 @@ namespace ScannerFormApp
                             builder.Append(code[i]);
                             current_string = builder.ToString();
                             values.Add(current_string);
-                            types.Add("assign");
+                            types.Add("symbol");
                             current_string = "";
                             builder.Clear();
                             state = 0;
